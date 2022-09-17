@@ -1,5 +1,6 @@
 {
   "atom-text-editor": {
+    "ctrl-alt-shift-c": "copy-with-style:html",
     "alt-a 1": "copy-with-style:preset1",
     "alt-a 2": "copy-with-style:preset2",
     "alt-a 3": "copy-with-style:preset3"
